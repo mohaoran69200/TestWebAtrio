@@ -1,0 +1,3 @@
+[submodule "web_atrio_api"]
+	path = web_atrio_api
+	url = https://github.com/mohaoran69200/test_web_atrio
